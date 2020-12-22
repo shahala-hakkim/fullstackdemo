@@ -1,2 +1,2 @@
 # fullstackdemo
-its about fullstack demo
+Demo for fullstack
